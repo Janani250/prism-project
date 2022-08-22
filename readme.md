@@ -13,20 +13,20 @@ python3 ./src/main.py
 ```
 
 ## Results:
-<p align="center"><img src="images/img1.jpeg" height="300"><br>
+<p align="center"><img src="img1.jpeg" height="300"><br>
 1 host
 <p>
 <br>
 
-<p align="center"><img src="images/img2.jpeg" height="300"><br>
+<p align="center"><img src="img2.jpeg" height="300"><br>
 2 hosts</p>
 <br>
 
-<p align="center"><img src="images/img3.jpeg" height="300"><br>
+<p align="center"><img src="img3.jpeg" height="300"><br>
 3 hosts</p>
 <br>
 
-<p align="center"><img src="images/img4.jpeg" height="300"><br>
+<p align="center"><img src="img4.jpeg" height="300"><br>
 4 hosts</p>
 <br>
 
