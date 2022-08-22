@@ -30,5 +30,5 @@ python3 ./src/main.py
 4 hosts</p>
 <br>
 
-As can be seen from above, the algorithm divides the available bandwidth fairly equally.
+As can be seen from above,the algorithm divides the available bandwidth fairly equally.
 
